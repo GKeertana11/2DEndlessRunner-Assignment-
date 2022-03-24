@@ -1,0 +1,5 @@
+sceneSetups:
+- path: C:/Users/Keertana.Govte/Desktop/Basic2Dshooter-master/Assets/Basic2DShooter.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
